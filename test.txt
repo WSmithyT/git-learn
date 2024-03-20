@@ -1,5 +1,3 @@
-Hello! 1st commit
+Hello! 1st commit in dev
 
-new test 123
-
-add new line
+dev branch
